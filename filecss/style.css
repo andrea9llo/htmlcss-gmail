@@ -1,0 +1,37 @@
+body{
+  background:url(../img/legno.jpg);
+  background-size: cover;
+}
+#centro{
+ margin: 10px 150px 250px;
+}
+#logo{
+  margin: 10px;
+  width: 50px;
+  height: 38px;
+  vertical-align: middle;
+}
+.color{
+  color: white;
+}
+#cerchio{
+  background-color: orange;
+  border-radius: 50%;
+}
+.bordo{
+  border:solid 1px black;
+  background-color: lightgrey;
+}
+#colorwhite{
+  background-color: white;
+  border:solid 1px black;
+}
+.grey{
+  color: grey;
+}
+footer{
+  text-align: center;
+}
+i{
+  font-size: 10px;
+}
